@@ -39,7 +39,7 @@ And delivers **intelligent, real-time feedback** that helps people make better h
 💡 Designed for **practical use**, not just demonstration
 ---
 ## 📷 Demo
- <img src="https://i.postimg.cc/9Qd2pQyJ/image.png" width="300" />  <img src="https://i.postimg.cc/vBk8KSTz/image.png" width="300" />
+ <img src="https://i.postimg.cc/9Qd2pQyJ/image.png" width="400" />  <img src="https://i.postimg.cc/vBk8KSTz/image.png" width="300" />
   
 <div align="right">
 <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
